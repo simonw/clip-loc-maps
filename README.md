@@ -1,5 +1,5 @@
 # clip-loc-maps
-This is the repository for the paper "Integrating Visual and Textual Inputs for Searching Large-Scale Map Collections with CLIP," accepted to the 2024 Computational Humanities Research (CHR) conference.
+This is the repository for the paper "Integrating Visual and Textual Inputs for Searching Large-Scale Map Collections with CLIP" [link forthcoming], accepted to the 2024 Computational Humanities Research (CHR) conference.
 
 # Introduction
 This paper explores the use of multimodal machine learning to facilitate search and discovery in large-scale map collections. We implement three search strategies using CLIP (Contrastive Language-Image Pre-training) embeddings on 562,842 images of maps from the Library of Congress:
