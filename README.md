@@ -32,8 +32,8 @@ Lastly, `search` loads in `beto` and `beto_idx` to accept user-specified search 
 # Using the search notebook
 
 To use the search notebook out of the box, 
--1. Clone this repository,
--2. Download `beto` and `beto_idx` from the [Zenodo](https://zenodo.org/records/11538437?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjFmOTY0ZTkxLTI4MTMtNDcwZS1iZDlkLTE3MzI0N2UwZjBhOSIsImRhdGEiOnt9LCJyYW5kb20iOiJmY2I1ZDhiMTdiZjdhZGQ4NGExZmYwYTU0ZWQ5NWEwYyJ9.0UTJ1hiE82QAINiushqIYy5YVmT5Af40XCVJxEc63Eppapa5SK1L_kuGkYx4f_OBQoZ5MHdY2Z27QDyCPXYrbQ),
--3. Move `beto` and `beto_idx` to the `search` folder,
--4. Run the **first two** cells in `search` (ensure all imports are resolved),
--5. Run the cell under the corresponding search type.
+1. Clone this repository,
+2. Download `beto` and `beto_idx` from the [Zenodo](https://zenodo.org/records/11538437?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjFmOTY0ZTkxLTI4MTMtNDcwZS1iZDlkLTE3MzI0N2UwZjBhOSIsImRhdGEiOnt9LCJyYW5kb20iOiJmY2I1ZDhiMTdiZjdhZGQ4NGExZmYwYTU0ZWQ5NWEwYyJ9.0UTJ1hiE82QAINiushqIYy5YVmT5Af40XCVJxEc63Eppapa5SK1L_kuGkYx4f_OBQoZ5MHdY2Z27QDyCPXYrbQ),
+3. Move `beto` and `beto_idx` to the `search` folder,
+4. Run the **first two** cells in `search` (ensure all imports are resolved),
+5. Run the cell under the corresponding search type.
