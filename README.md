@@ -37,3 +37,5 @@ To use the search notebook out of the box,
 3. Move `beto` and `beto_idx` to the `search` folder,
 4. Run the **first two** cells in `search` (ensure all imports are resolved),
 5. Run the cell under the corresponding search type.
+
+For image-input search, the image input is not restricted to images from the Library of Congress. 
