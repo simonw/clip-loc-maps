@@ -27,6 +27,8 @@ The `embeddings` folder contains scripts that accept resource URLs (in the form 
 
 The `fine-tuning` folder contains script for dataset creation, a notebook for fine-tuning incrementally, and the fine-tuning script. Fine-tuning accepts a range of image-text pairs with user-specified model hyperparameters.
 
+The `documentation` folder hosts the sheets for this project's complaince with the [Library of Congress's AI planning framework](https://blogs.loc.gov/thesignal/2023/11/introducing-the-lc-labs-artificial-intelligence-planning-framework/), including assessments on the use case, data collection, and risk. 
+
 Lastly, `search` loads in `beto` and `beto_idx` to accept user-specified search inputs. The **first two** cells must be run for the search cells to work. The third cell imports a fine-tuned model which is not included in this repository.
 
 # Using the search notebook
